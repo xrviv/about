@@ -1,24 +1,21 @@
 # About
 
-
-
 Daniel Andrei Garcia
+[Gitlab](https://gitlab.com/dannygarcia)
 
-Calabarzon, Philippines
+Lipa City, Philippines
 
-dannyboygarcia@gmail.com
-
-639567393591
+Full personal information on:
 
 [linkedin.com/in/dannyboygarcia](https://www.linkedin.com/in/dannyboygarcia)
 
 **Experience**
 
 
-
-## **Bitcoin Wallet Researcher**
+## **Freelance Writer / Researcher**
 
 ### WalletScrutiny.com
+[Contributions in Gitlab](https://gitlab.com/dannygarcia)
 
 - Jul 2021 - Dec 2022 (1 year 6 months)
 
