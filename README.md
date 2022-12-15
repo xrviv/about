@@ -12,204 +12,91 @@ dannyboygarcia@gmail.com
 
 [linkedin.com/in/dannyboygarcia](https://www.linkedin.com/in/dannyboygarcia)
 
-**Summary**
-
-Read: LinkedIn Newsfeed Cringe. https://slate.com/technology/2022/08/crying-ceo-linkedin-newsfeed-cringe.html
-
-But with that said, I love working with groups and people that have a genuine contribution to something great.
-
-I'm a technical writer for WalletScrutiny.com and love working for one of the most eminent names in Bitcoin.
-
-Stay humble. Stack sats.
-
 **Experience**
 
-**Freelance Writer**
 
-Freelance
 
-Mar 2010 - Present (12 years 10 months +)
+## **Bitcoin Wallet Researcher**
 
-As a freelance writer/blogger, I have written for numerous individuals, companies and publishers
+### WalletScrutiny.com
 
-for the last 4 years. I've lost count of my word count but the last time I checked, it was already at
+- Jul 2021 - Dec 2022 (1 year 6 months)
 
-3,000,000+ something words written and maybe 4,000 blog posts and articles on topics as diverse
+> I ascertain whether Bitcoin wallets are custodial or self-custodial, try to find the source code for the
+> apps, contact app developers to verify initial findings, and publish my findings with the guidance of
+> WalletScrutiny.com founder.
 
-as the environment, smoking cessation, healthy living, parenting, love and relationships, food, current
+## **Luxury Bunker Sales Affiliate**
 
-events and more.
+### The Vivos Group
 
-Below is a short list of websites where you could find a few of my work.
+- Jun 2020 - Sep 2021 (1 year 4 months)
 
-Wind.org - Environment, sustainable living, green energy and technology.
+## **Building Administrator**
 
-BreathingHappy.com - A community of bloggers who want to quit smoking. It's a website that's of the
+### Atty. Reynaldo C. Garcia Commercial Building
 
-bloggers, by the bloggers and for the bloggers.
+- Sep 2009 - Sep 2020 (11 years 1 month)
 
-TransferMaster.com - Formerly Rollingwithoutlimits.com, a community dedicated to supporting and
+> Established #205 Aguirre as a premiere commercial establishment inside the Philippines' largest
+> subdivision in Paranaque City. As the building administrator I engaged with negotiations with former
+> tenants to come up with a proactive way by which we can divide the building accordingly. I procured the
+> funds for renovation and handled the actual renovations myself. I was also in charge of client acquisition
+> and property marketing.
 
-encouraging wheelchair riders, to see the beauty of all there is and more importantly, to roll without
+## **Real Estate Broker**
 
-limits.
+### Real Estate Broker
 
-Renovate.com - A community of bloggers who share the passion for home improvement.
+- Jul 2015 - Jun 2020 (5 years)
 
-TheFlamingVegan.com - For vegans, vegetarians and the V-curious.
+> Professionally market and sell properties for individuals and real estate developers while adding value
+> and my know how to the general public.
 
-Tego.com - Tego Media, digital marketing, online marketing, facebook, content, etc.
+## **Farm-Resort Caretaker**
 
-**Bitcoin Wallet Researcher**
+### Virginia's Garden
 
-WalletScrutiny.com
+- Sep 2008 - Jun 2020 (11 years 10 months)
 
-Jul 2021 - Dec 2022 (1 year 6 months)
+> - Trimmed grass of a one and a half hectare property using Kawasaki TH43 and Fujihama CG411
+> - Coordinated and personally planted over 1,000 papaya trees, 400 pineapple plants
+> - Implemented an effective plan to maintain the premises with less labor by maximizing efficiency
+> - Learned hands on everything that needed to be done in the farm
+> - Maintained the swimming pool 
+> - Marketed the property as a leisure farm for lease
+> - Successfully involved international volunteers / tourist to participate in farm activities
 
-I ascertain whether Bitcoin wallets are custodial or self-custodial, try to find the source code for the
+## **Phonebanking Trainee**
 
-apps, contact app developers to verify initial findings, and publish my findings with the guidance of
+### Bank of the Philippine Islands (BPI)
 
-WalletScrutiny.com founder.
+- May 2007 - Jul 2007 (3 months)
 
-**Luxury Bunker Sales Affiliate**
+> - Phone banking trainee assigned to serve Bank of the Philippine Islands clients by assisting them with
+> - their concerns when they call 89-100
 
-Daniel Andrei Garcia - page 1
+## **Level 1 MSN Technical Support Agent Chat Support**
 
+### NCO Group
 
+- Jul 2005 - Dec 2005 (6 months)
 
+> Helped Microsoft Networks (MSN) customers with MSN Software, MSN E-mail and MSN Internet
+> Connection Concerns using the chat medium.
 
+## **Administrative Assistant**
 
-The Vivos Group
+### Garcia Ines Villacarlos and Garcia Law Firm
 
-Jun 2020 - Sep 2021 (1 year 4 months)
+- Jun 2004 - Apr 2005 (11 months)
 
-**Building Administrator**
+> - Helped draft collection letters for unpaid accounts of client's agents
+> - Created and performed the lay-out for the Paranaque City Bar Association Newsletter
+> - Created the firm's brochure
+> - Performed minor servicing repairs on computer equipment
+> - Prepared MS Power Point presentations for numerous lawyer's meetings
+> - Assisted in the re-organization of the docketing department's files
+> - Assisted in the canvassing and purchasing of office equipment
 
-Atty. Reynaldo C. Garcia Commercial Building
-
-Sep 2009 - Sep 2020 (11 years 1 month)
-
-Established #205 Aguirre as a premiere commercial establishment inside the Philippines' largest
-
-subdivision in Paranaque City. As the building administrator I engaged with negotiations with former
-
-tenants to come up with a proactive way by which we can divide the building accordingly. I procured the
-
-funds for renovation and handled the actual renovations myself. I was also in charge of client acquisition
-
-and property marketing.
-
-**Real Estate Broker**
-
-Real Estate Broker
-
-Jul 2015 - Jun 2020 (5 years)
-
-Professionally market and sell properties for individuals and real estate developers while adding value
-
-and my know how to the general public.
-
-**Farm-Resort Caretaker**
-
-Virginia's Garden
-
-Sep 2008 - Jun 2020 (11 years 10 months)
-
--Trimmed grass of a one and a half hectare property using Kawasaki TH43 and Fujihama CG411
-
--Coordinated and personally planted over 1,000 papaya trees, 400 pineapple plants
-
--Implemented an effective plan to maintain the premises with less labor by maximizing efficiency
-
--Learned hands on everything that needed to be done in the farm
-
--Maintained the swimming pool personally
-
--Marketed the property as a leisure farm for lease
-
--Successfully involved international volunteers / tourist to participate in farm activities
-
-**Phonebanking Trainee**
-
-Bank of the Philippine Islands (BPI)
-
-May 2007 - Jul 2007 (3 months)
-
-●Phone banking trainee assigned to serve Bank of the Philippine Islands clients by assisting them with
-
-their concerns when they call 89-100
-
-**Level 1 MSN Technical Support Agent Chat Support**
-
-NCO Group
-
-Jul 2005 - Dec 2005 (6 months)
-
-●Helped Microsoft Networks (MSN) customers with MSN Software, MSN E-mail and MSN Internet
-
-Connection Concerns using the chat medium.
-
-**Administrative Assistant**
-
-Garcia Ines Villacarlos and Garcia Law Firm
-
-Jun 2004 - Apr 2005 (11 months)
-
-Daniel Andrei Garcia - page 2
-
-
-
-
-
-\- Helped draft collection letters for unpaid accounts of client's agents
-
-\- Created and performed the lay-out for the Paranaque City Bar Association Newsletter
-
-\- Created the firm's brochure
-
-\- Performed minor servicing repairs on computer equipment
-
-\- Prepared MS Power Point presentations for numerous lawyer's meetings
-
-\- Assisted in the re-organization of the docketing department's files
-
-\- Assisted in the canvassing and purchasing of office equipment
-
-**Education**
-
-**University of the Philippines Baguio**
-
-BA Social Science, Philosophy, Political Science
-
-1999 - 2004
-
-**San Beda College Alabang**
-
-High School
-
-1995 - 1999
-
-**Licenses & Certifications**
-
-**PRC Licensed Real Estate Broker** - Professional Regulation Commission
-
-**Learning Bitcoin and Other Cryptocurrencies** - LinkedIn
-
-**SEO for Social Media** - LinkedIn
-
-**SEO: Link Building** - LinkedIn
-
-**How Blockchains Will Change Business** - LinkedIn
-
-**Responsive Web Design** - freeCodeCamp
-
-**Skills**
-
-Git • Gitlab • Research • Writing • Creative Non-fiction • Book Reviews • Link Building • Fiction
-
-Writing • Novels • Ghostwriting
-
-Daniel Andrei Garcia - page 3
-
-
+Full information about me could be found on my [linkedIn Profile](https://www.linkedin.com/in/dannyboygarcia/)
