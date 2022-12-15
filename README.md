@@ -1,6 +1,6 @@
 # 👋 About
 
-I'm Daniel Andrei R. Garcia
+Hello, I'm Daniel Andrei R. Garcia
 
 [Gitlab](https://gitlab.com/dannygarcia)
 
