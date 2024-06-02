@@ -35,4 +35,4 @@ Full personal information on:
 
 - Jun 2020 - Sep 2021 (1 year 4 months)
 
-# [Certifications](https://www.linkedin.com/in/dannyboygarcia/details/certifications/)
+# [My Certifications](https://www.linkedin.com/in/dannyboygarcia/details/certifications/)
