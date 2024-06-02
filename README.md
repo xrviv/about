@@ -13,16 +13,21 @@ Full personal information on:
 **Experience**
 
 
-## **Freelance Writer / Researcher**
+## **Freelance Writer / Researcher / Aspiring Cybersecurity Specialist / Learning Software Developer**
 
 ### WalletScrutiny.com
 [Contributions in Gitlab](https://gitlab.com/dannygarcia)
 
-- Jul 2021 - Dec 2022 (1 year 6 months)
+- Jul 2021 - Present
 
-> I ascertain whether Bitcoin wallets are custodial or self-custodial, try to find the source code for the
-> apps, contact app developers to verify initial findings, and publish my findings with the guidance of
-> WalletScrutiny.com founder.
+> Writer. Researcher. Aspiring Cybersecurity Specialist and Software Developer
+- Open Source contributor to FOSS project walletscrutiny.com 
+- https://gitlab.com/dannygarcia
+- Big fan of OpenAI GPT3
+- https://github.com/xrviv/OpenAI-Prototypes
+- Perennial python tinkerer in Replit 
+- https://github.com/xrviv/replit_100_days_of_code
+- Ubuntu and Mint Linux user studying cybersecurity
 
 ## **Luxury Bunker Sales Affiliate**
 
