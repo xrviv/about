@@ -1,38 +1,14 @@
-# 👋 About
+Welcome to the edge of verifiability.
 
-Hello, I'm Daniel Andrei R. Garcia
+This is a space where code isn’t just written—it’s interrogated. Every repository, every script, every analysis serves a single purpose: to uncover the truth in software. Whether it's dissecting Android wallets, verifying reproducibility, or automating deep-dive inspections, the goal remains the same: No assumptions. Only evidence.
 
-[Gitlab](https://gitlab.com/dannygarcia)
+Expect repositories filled with:
+✔️ Automated build verification tools
+✔️ Forensic-level software analysis
+✔️ Cryptography-adjacent investigations
+✔️ Containers, scripts, and automation—built for reproducibility
 
-Lipa City, Philippines
+If it can be faked, it can be proven.
+If it can be obfuscated, it can be revealed.
 
-Full personal information on:
-
-[linkedin.com/in/dannyboygarcia](https://www.linkedin.com/in/dannyboygarcia)
-
-**Experience**
-
-
-## **Freelance Writer / Researcher / Aspiring Cybersecurity Specialist / Learning Software Developer**
-
-### WalletScrutiny.com
-[Contributions in Gitlab](https://gitlab.com/dannygarcia)
-
-- Jul 2021 - Present
-
-> Writer. Researcher. Aspiring Cybersecurity Specialist and Software Developer
-- Open Source contributor to FOSS project walletscrutiny.com 
-- https://gitlab.com/dannygarcia
-- Big fan of OpenAI GPT3
-- https://github.com/xrviv/OpenAI-Prototypes
-- Perennial python tinkerer in Replit 
-- https://github.com/xrviv/replit_100_days_of_code
-- Ubuntu and Mint Linux user studying cybersecurity
-
-## **Luxury Bunker Sales Affiliate**
-
-### The Vivos Group
-
-- Jun 2020 - Sep 2021 (1 year 4 months)
-
-# [My Certifications](https://www.linkedin.com/in/dannyboygarcia/details/certifications/)
+Source code tells a story. Here, we make sure it's the right one.
