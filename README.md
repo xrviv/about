@@ -93,6 +93,18 @@ Yearly breakdown:
 - [The-Triage-Log](https://github.com/xrviv/The-Triage-Log) - notes on vibe
   forensics, Bitcoin, cyber work, and reproducible builds.
 
+## therobotbay.com
+
+[therobotbay.com](https://therobotbay.com) is a work-in-progress robotics and
+automation project. Development is currently stalled by lack of funding, which
+limits hardware procurement, controlled test time, and sustained engineering
+focus.
+
+With dedicated funding, the project could move from prototype work into
+structured benchmarking: repeatable test setups, performance measurements across
+comparable systems, cost/capability analysis, and published data comparing robot
+platforms, components, and automation workflows.
+
 ## What I Work On
 
 - Bitcoin wallet reproducibility
