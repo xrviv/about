@@ -1,4 +1,4 @@
-# Daniel Garcia
+# Daniel Andrei R. Garcia
 
 Bitcoin wallet reproducibility reviewer, build forensics operator, and maintainer
 of verification tooling around [WalletScrutiny](https://walletscrutiny.com).
