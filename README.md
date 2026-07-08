@@ -1,16 +1,94 @@
-Welcome to the edge of verifiability.
+# Daniel Garcia
 
-This is a space where code isn’t just written—it’s interrogated. Every repository, every script, every analysis serves a single purpose: to uncover the truth in software. Whether it's dissecting Android wallets, verifying reproducibility, or automating deep-dive inspections, the goal remains the same: No assumptions. Only evidence.
+Bitcoin wallet reproducibility reviewer, build forensics operator, and maintainer
+of verification tooling around [WalletScrutiny](https://walletscrutiny.com).
 
-Expect repositories filled with:
+My work focuses on one question: can users independently verify that the Bitcoin
+wallet app or device they install corresponds to the source code and release
+claims made by its developers?
 
-- ✔️ Automated build verification tools 
-- ✔️ Forensic-level software analysis
-- ✔️ Cryptography-adjacent investigations
-- ✔️ Containers, scripts, and automation—built for reproducibility
+That means reviewing wallets, tracing build systems, writing reproducibility
+scripts, comparing binaries, documenting failure modes, and publishing evidence
+when claims do not match artifacts.
 
-If it can be faked, it can be proven.
+## WalletScrutiny Review Work
 
-If it can be obfuscated, it can be revealed.
+As of the January 2026 WalletScrutiny snapshot, I was listed as author on
+`3655` of `6538` Bitcoin-related app/device pages: `55.90%` of the tracked
+WalletScrutiny corpus at that point.
 
-Source code tells a story. Here, we make sure it's the right one.
+```text
+Collection     Authored      Total  Instances
+----------     --------      -----  ---------
+_android           1973       4604       1973
+_iphone            1118       1336       1118
+_bearer              49         49         49
+_others              44         44         44
+_hardware           387        421        387
+_desktop             84         84         84
+----------     --------      -----  ---------
+TOTAL              3655       6538       3655
+```
+
+That work spans Android wallets, iPhone wallets, bearer instruments, hardware
+wallets, desktop wallets, and other Bitcoin-related custody tools.
+
+## WalletScrutiny Commit History
+
+As of July 8, 2026, my authored commits in the official WalletScrutiny GitLab
+history total:
+
+```text
+Total unique commits in scope: 10076
+Danny-authored commits: 2674
+Danny-authored share: 26.54%
+```
+
+Those `2674` commits cover Bitcoin app and device review work, reproducible
+build scripts, build evidence, maintenance, metadata cleanup, verification
+automation, and long-running triage.
+
+Yearly breakdown:
+
+```text
+2021   465
+2022   205
+2023   430
+2024   420
+2025   951
+2026   203
+```
+
+## Pinned Work
+
+- [WalletScrutinyCom](https://github.com/xrviv/WalletScrutinyCom) - mirror/fork
+  of the WalletScrutiny website and review corpus.
+- [bitcoinAppReproducibilityVerificationScripts](https://github.com/xrviv/bitcoinAppReproducibilityVerificationScripts)
+  - reproducible build verification scripts formerly part of WalletScrutiny.
+- [bitcoin-wallet-lab](https://github.com/xrviv/bitcoin-wallet-lab) - an
+  educational course for building a reproducible Bitcoin wallet for Android from
+  scratch.
+- [walletScrutinyBuildCasts](https://github.com/xrviv/walletScrutinyBuildCasts)
+  - asciicast records of WalletScrutiny verification work.
+- [about](https://github.com/xrviv/about) - this profile repository.
+- [The-Triage-Log](https://github.com/xrviv/The-Triage-Log) - notes on vibe
+  forensics, Bitcoin, cyber work, and reproducible builds.
+
+## What I Work On
+
+- Bitcoin wallet reproducibility
+- Android and desktop build verification
+- Hardware wallet release review
+- Binary/source correspondence checks
+- Reproducible build scripts and containers
+- Wallet metadata triage
+- Nostr-backed verification publishing
+- Evidence-first software forensics
+
+## Operating Principle
+
+No assumptions. Only evidence.
+
+If a wallet claims to be open source, reproducible, or self-custodial, that
+claim should survive contact with the source tree, build instructions, release
+artifact, and binary diff.
