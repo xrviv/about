@@ -33,6 +33,25 @@ TOTAL              3655       6538       3655
 That work spans Android wallets, iPhone wallets, bearer instruments, hardware
 wallets, desktop wallets, and other Bitcoin-related custody tools.
 
+## Reproducibility Verifications
+
+As of July 8, 2026, my local WalletScrutiny archive contains `286`
+reproducibility verification and endorsement report files for Bitcoin apps and
+devices.
+
+```text
+Desktop        166
+Android        105
+Hardware        12
+Endorsements     2
+Unsorted         1
+Total          286
+```
+
+These are hands-on verification records: build runs, artifact comparisons,
+reproducibility findings, and endorsement checks where I reviewed and compared
+the underlying evidence.
+
 ## WalletScrutiny Commit History
 
 As of July 8, 2026, my authored commits in the official WalletScrutiny GitLab
