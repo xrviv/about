@@ -35,17 +35,17 @@ wallets, desktop wallets, and other Bitcoin-related custody tools.
 
 ## Reproducibility Verifications
 
-As of July 8, 2026, my local WalletScrutiny archive contains `286`
+As of July 20, 2026, my local WalletScrutiny archive contains `322`
 reproducibility verification and endorsement report files for Bitcoin apps and
 devices.
 
 ```text
-Desktop        166
-Android        105
-Hardware        12
+Desktop        190
+Android        112
+Hardware        17
 Endorsements     2
 Unsorted         1
-Total          286
+Total          322
 ```
 
 These are hands-on verification records: build runs, artifact comparisons,
@@ -90,7 +90,7 @@ Yearly breakdown:
 - [walletScrutinyBuildCasts](https://github.com/xrviv/walletScrutinyBuildCasts)
   - asciicast records of WalletScrutiny verification work.
 - [about](https://github.com/xrviv/about) - this profile repository.
-- [The-Triage-Log](https://github.com/xrviv/The-Triage-Log) - notes on vibe
+- [The-Triage-Log](https://xrviv.github.io/The-Triage-Log/) - notes on vibe
   forensics, Bitcoin, cyber work, and reproducible builds.
 
 ## therobotbay.com
