@@ -11,6 +11,12 @@ That means reviewing wallets, tracing build systems, writing reproducibility
 scripts, comparing binaries, documenting failure modes, and publishing evidence
 when claims do not match artifacts.
 
+## Availability
+
+I am based in the Philippines and open to working overseas, with a focus on
+cybersecurity roles. I am interested in positions that offer visa sponsorship
+and relocation.
+
 ## WalletScrutiny Review Work
 
 As of the January 2026 WalletScrutiny snapshot, I was listed as author on
@@ -35,17 +41,17 @@ wallets, desktop wallets, and other Bitcoin-related custody tools.
 
 ## Reproducibility Verifications
 
-As of July 20, 2026, my local WalletScrutiny archive contains `322`
+As of September 2, 2026, my local WalletScrutiny archive contains `445`
 reproducibility verification and endorsement report files for Bitcoin apps and
 devices.
 
 ```text
-Desktop        190
-Android        112
-Hardware        17
-Endorsements     2
+Desktop        257
+Android        137
+Hardware        46
+Endorsements     4
 Unsorted         1
-Total          322
+Total          445
 ```
 
 These are hands-on verification records: build runs, artifact comparisons,
