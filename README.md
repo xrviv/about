@@ -41,16 +41,16 @@ wallets, desktop wallets, and other Bitcoin-related custody tools.
 
 ## Reproducibility Verifications
 
-As of November 2, 2026, my local WalletScrutiny archive contains `686`
+As of November 3, 2026, my local WalletScrutiny archive contains `687`
 reproducibility verification and endorsement report files for Bitcoin apps and
 devices.
 
 ```text
 Desktop        350
-Android        210
+Android        211
 Hardware       122
 Endorsements     4
-Total          686
+Total          687
 ```
 
 These are hands-on verification records: build runs, artifact comparisons,
